@@ -25,10 +25,11 @@ app listening on port 3000
 
 http://localhost:3000/books
 
+![Screenshot (79)](https://github.com/user-attachments/assets/faafa9a7-c948-4dca-99ef-ceb0c30c94c8)
 
 
 ## Where is my mongodb database ?
 
-It is running on ubuntu server with an ip address of 192.168.0.10
+It is running on an ubuntu server with an ip address of 192.168.0.10
 
 Tutorial : https://www.youtube.com/watch?v=SNgaUYu5o1o 
