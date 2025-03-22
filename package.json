@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-js",
+  "version": "1.0.0",
+  "description": "A javascript/typescript program to connect to my mongodb on my ubuntu server",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
