@@ -34,8 +34,8 @@ http://localhost:3000/books
 
 ## Reference
 
-https://www.mongodb.com/try/download/community ( install it on ubuntu server )
-https://www.mongodb.com/try/download/shell ( run it on ubuntu server
-https://www.mongodb.com/try/download/compass ( run it on windows or anything server with GUI )
+- https://www.mongodb.com/try/download/community ( install it on ubuntu server )
+- https://www.mongodb.com/try/download/shell ( run it on ubuntu server
+- https://www.mongodb.com/try/download/compass ( run it on windows or anything server with GUI )
 
 
